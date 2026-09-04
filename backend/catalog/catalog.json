@@ -1,0 +1,7 @@
+[
+  {"sku": "HOOD-BLU-M", "name": "Blue Hoodie - M", "category": "apparel", "price_inr": 1499, "stock": 25, "cross_sell_sku": "CAP-BLK"},
+  {"sku": "HOOD-BLU-L", "name": "Blue Hoodie - L", "category": "apparel", "price_inr": 1499, "stock": 18, "cross_sell_sku": "CAP-BLK"},
+  {"sku": "TEE-WHT-M", "name": "White T-Shirt - M", "category": "apparel", "price_inr": 599, "stock": 40, "cross_sell_sku": "BELT-BRN"},
+  {"sku": "CAP-BLK", "name": "Black Cap", "category": "accessories", "price_inr": 349, "stock": 60, "cross_sell_sku": null},
+  {"sku": "BELT-BRN", "name": "Brown Leather Belt", "category": "accessories", "price_inr": 799, "stock": 15, "cross_sell_sku": null}
+]

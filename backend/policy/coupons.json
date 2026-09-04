@@ -1,0 +1,5 @@
+{
+  "WELCOME10": { "discount_pct": 10, "description": "10% off your first order" },
+  "SAVE5": { "discount_pct": 5, "description": "Flat 5% off" },
+  "AGENT15": { "discount_pct": 15, "description": "15% off — agent exclusive" }
+}

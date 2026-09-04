@@ -1,0 +1,12 @@
+{
+  "merchant_id": "test_merchant_1",
+  "max_txn_amount_inr": 2000.0,
+  "max_txns_per_session": 10,
+  "auto_approve_below_inr": 500.0,
+  "requires_human_confirm_above_inr": 500.0,
+  "allowed_categories": [
+    "apparel",
+    "accessories"
+  ],
+  "max_discount_pct_agent_can_apply": 10.0
+}
